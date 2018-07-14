@@ -1,1 +1,0 @@
-/home/para/.xinitrc
